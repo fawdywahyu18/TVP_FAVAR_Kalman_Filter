@@ -14,13 +14,14 @@ This repository contains Python code for estimating and forecasting macroeconomi
 - **Forecasting**: Generates multi-step ahead forecasts with the estimated model
 
 ## Required Packages
-
-- numpy
-- pandas
-- matplotlib
-- scipy
-- scikit-learn
-- statsmodels
+``` python
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+statsmodels
+```
 
 ## Usage
 
